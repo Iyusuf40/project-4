@@ -4,3 +4,10 @@ project-7897df6ccd-2dtxc   1/1     Running   0          41s
 Forwarding from 0.0.0.0:8000 -> 80
 Handling connection for 8000
 Handling connection for 8000
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
